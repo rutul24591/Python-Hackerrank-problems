@@ -15,6 +15,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/untitled$readingrawinput.coverage" NAME="readingrawinput Coverage Results" MODIFIED="1471632226596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
+    <SUITE FILE_PATH="coverage/untitled$python_arithmetic_operators.coverage" NAME="python-arithmetic-operators Coverage Results" MODIFIED="1471726520391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
     <SUITE FILE_PATH="coverage/untitled$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1471631046645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrank challenges" />
   </component>
   <component name="CreatePatchCommitExecutor">
@@ -36,11 +37,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="readingrawinput.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="readingrawinput.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/readingrawinput.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
               <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="python-arithmetic-operators.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/python-arithmetic-operators.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -53,6 +64,7 @@
       <list>
         <option value="$PROJECT_DIR$/../Pythonhackerrank challenges/helloworld.py" />
         <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/readingrawinput.py" />
+        <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/python-arithmetic-operators.py" />
       </list>
     </option>
   </component>
@@ -129,7 +141,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.readingrawinput">
+  <component name="RunManager" selected="Python.python-arithmetic-operators">
     <configuration default="false" name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,6 +174,24 @@
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pythonhackerrankchallenges/readingrawinput.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="python-arithmetic-operators" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pythonhackerrankchallenges/python-arithmetic-operators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -368,14 +398,16 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="3">
       <item index="0" class="java.lang.String" itemvalue="Python.helloworld" />
       <item index="1" class="java.lang.String" itemvalue="Python.readingrawinput" />
+      <item index="2" class="java.lang.String" itemvalue="Python.python-arithmetic-operators" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.readingrawinput" />
-        <item index="1" class="java.lang.String" itemvalue="Python.helloworld" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Python.python-arithmetic-operators" />
+        <item index="1" class="java.lang.String" itemvalue="Python.readingrawinput" />
+        <item index="2" class="java.lang.String" itemvalue="Python.helloworld" />
       </list>
     </recent_temporary>
   </component>
@@ -445,6 +477,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/python-arithmetic-operators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
           <folding />
         </state>
       </provider>
