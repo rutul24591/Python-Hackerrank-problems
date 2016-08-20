@@ -16,6 +16,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/untitled$pythonifelse.coverage" NAME="pythonifelse Coverage Results" MODIFIED="1471729396169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
     <SUITE FILE_PATH="coverage/untitled$readingrawinput.coverage" NAME="readingrawinput Coverage Results" MODIFIED="1471632226596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
+    <SUITE FILE_PATH="coverage/untitled$loops.coverage" NAME="loops Coverage Results" MODIFIED="1471729935129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
     <SUITE FILE_PATH="coverage/untitled$python_arithmetic_operators.coverage" NAME="python-arithmetic-operators Coverage Results" MODIFIED="1471726520391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
     <SUITE FILE_PATH="coverage/untitled$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1471631046645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrank challenges" />
     <SUITE FILE_PATH="coverage/untitled$Divison.coverage" NAME="Divison Coverage Results" MODIFIED="1471727304053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
@@ -89,6 +90,7 @@
         <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/python-arithmetic-operators.py" />
         <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/Divison.py" />
         <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/pythonifelse.py" />
+        <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/loops.py" />
       </list>
     </option>
   </component>
@@ -165,25 +167,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pythonifelse">
-    <configuration default="false" name="helloworld" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pythonhackerrank challenges" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pythonhackerrank challenges/helloworld.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.loops">
     <configuration default="false" name="readingrawinput" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,6 +236,24 @@
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pythonhackerrankchallenges/pythonifelse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="loops" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pythonhackerrankchallenges/loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -459,19 +461,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.helloworld" />
-      <item index="1" class="java.lang.String" itemvalue="Python.readingrawinput" />
-      <item index="2" class="java.lang.String" itemvalue="Python.python-arithmetic-operators" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Divison" />
-      <item index="4" class="java.lang.String" itemvalue="Python.pythonifelse" />
+      <item index="0" class="java.lang.String" itemvalue="Python.readingrawinput" />
+      <item index="1" class="java.lang.String" itemvalue="Python.python-arithmetic-operators" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Divison" />
+      <item index="3" class="java.lang.String" itemvalue="Python.pythonifelse" />
+      <item index="4" class="java.lang.String" itemvalue="Python.loops" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.pythonifelse" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Divison" />
-        <item index="2" class="java.lang.String" itemvalue="Python.python-arithmetic-operators" />
-        <item index="3" class="java.lang.String" itemvalue="Python.readingrawinput" />
-        <item index="4" class="java.lang.String" itemvalue="Python.helloworld" />
+        <item index="0" class="java.lang.String" itemvalue="Python.loops" />
+        <item index="1" class="java.lang.String" itemvalue="Python.pythonifelse" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Divison" />
+        <item index="3" class="java.lang.String" itemvalue="Python.python-arithmetic-operators" />
+        <item index="4" class="java.lang.String" itemvalue="Python.readingrawinput" />
       </list>
     </recent_temporary>
   </component>
@@ -557,6 +559,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
