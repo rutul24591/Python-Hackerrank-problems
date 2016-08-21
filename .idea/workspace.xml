@@ -14,14 +14,15 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/untitled$pythonifelse.coverage" NAME="pythonifelse Coverage Results" MODIFIED="1471729396169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
-    <SUITE FILE_PATH="coverage/untitled$readingrawinput.coverage" NAME="readingrawinput Coverage Results" MODIFIED="1471632226596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
-    <SUITE FILE_PATH="coverage/untitled$loops.coverage" NAME="loops Coverage Results" MODIFIED="1471730047802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
-    <SUITE FILE_PATH="coverage/untitled$python_arithmetic_operators.coverage" NAME="python-arithmetic-operators Coverage Results" MODIFIED="1471726520391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
-    <SUITE FILE_PATH="coverage/untitled$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1471631046645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrank challenges" />
-    <SUITE FILE_PATH="coverage/untitled$writefunction.coverage" NAME="writefunction Coverage Results" MODIFIED="1471735487206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
-    <SUITE FILE_PATH="coverage/untitled$pythonprint.coverage" NAME="pythonprint Coverage Results" MODIFIED="1471735149706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
-    <SUITE FILE_PATH="coverage/untitled$Divison.coverage" NAME="Divison Coverage Results" MODIFIED="1471727304053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
+    <SUITE FILE_PATH="coverage/untitled$pythonifelse.coverage" NAME="pythonifelse Coverage Results" MODIFIED="1471729396169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
+    <SUITE FILE_PATH="coverage/untitled$readingrawinput.coverage" NAME="readingrawinput Coverage Results" MODIFIED="1471632226596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
+    <SUITE FILE_PATH="coverage/untitled$List.coverage" NAME="List Coverage Results" MODIFIED="1471823832091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
+    <SUITE FILE_PATH="coverage/untitled$loops.coverage" NAME="loops Coverage Results" MODIFIED="1471730047802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
+    <SUITE FILE_PATH="coverage/untitled$python_arithmetic_operators.coverage" NAME="python-arithmetic-operators Coverage Results" MODIFIED="1471726520391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
+    <SUITE FILE_PATH="coverage/untitled$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1471631046645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Pythonhackerrank challenges" />
+    <SUITE FILE_PATH="coverage/untitled$writefunction.coverage" NAME="writefunction Coverage Results" MODIFIED="1471735487206" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
+    <SUITE FILE_PATH="coverage/untitled$pythonprint.coverage" NAME="pythonprint Coverage Results" MODIFIED="1471735149706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
+    <SUITE FILE_PATH="coverage/untitled$Divison.coverage" NAME="Divison Coverage Results" MODIFIED="1471727304053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -32,11 +33,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="writefunction.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/writefunction.py">
+      <file leaf-file-name="List.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/List.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+            <state relative-caret-position="180">
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -47,14 +48,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../Pythonhackerrank challenges/helloworld.py" />
-        <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/readingrawinput.py" />
-        <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/python-arithmetic-operators.py" />
-        <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/Divison.py" />
-        <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/pythonifelse.py" />
-        <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/loops.py" />
-        <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/pythonprint.py" />
-        <option value="$PROJECT_DIR$/../Pythonhackerrankchallenges/writefunction.py" />
+        <option value="$USER_HOME$/PycharmProjects/Pythonhackerrank challenges/helloworld.py" />
+        <option value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/readingrawinput.py" />
+        <option value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/python-arithmetic-operators.py" />
+        <option value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/Divison.py" />
+        <option value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/pythonifelse.py" />
+        <option value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/loops.py" />
+        <option value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/pythonprint.py" />
+        <option value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/writefunction.py" />
+        <option value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/List.py" />
       </list>
     </option>
   </component>
@@ -65,9 +67,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -101,12 +102,6 @@
               <option name="myItemId" value="untitled" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="untitled" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Pythonhackerrankchallenges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -131,25 +126,7 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.writefunction">
-    <configuration default="false" name="Divison" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="untitled" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pythonhackerrankchallenges/Divison.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.List">
     <configuration default="false" name="pythonifelse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,13 +134,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pythonhackerrankchallenges/pythonifelse.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/pythonifelse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -175,13 +152,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pythonhackerrankchallenges/loops.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -193,13 +170,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pythonhackerrankchallenges/pythonprint.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/pythonprint.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -211,13 +188,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Pythonhackerrankchallenges" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="untitled" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Pythonhackerrankchallenges/writefunction.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/writefunction.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="untitled" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -425,19 +420,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.Divison" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pythonifelse" />
-      <item index="2" class="java.lang.String" itemvalue="Python.loops" />
-      <item index="3" class="java.lang.String" itemvalue="Python.pythonprint" />
-      <item index="4" class="java.lang.String" itemvalue="Python.writefunction" />
+      <item index="0" class="java.lang.String" itemvalue="Python.pythonifelse" />
+      <item index="1" class="java.lang.String" itemvalue="Python.loops" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pythonprint" />
+      <item index="3" class="java.lang.String" itemvalue="Python.writefunction" />
+      <item index="4" class="java.lang.String" itemvalue="Python.List" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.writefunction" />
-        <item index="1" class="java.lang.String" itemvalue="Python.pythonprint" />
-        <item index="2" class="java.lang.String" itemvalue="Python.loops" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pythonifelse" />
-        <item index="4" class="java.lang.String" itemvalue="Python.Divison" />
+        <item index="0" class="java.lang.String" itemvalue="Python.List" />
+        <item index="1" class="java.lang.String" itemvalue="Python.writefunction" />
+        <item index="2" class="java.lang.String" itemvalue="Python.pythonprint" />
+        <item index="3" class="java.lang.String" itemvalue="Python.loops" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pythonifelse" />
       </list>
     </recent_temporary>
   </component>
@@ -464,19 +459,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1916972" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32959184" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37123287" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -515,7 +510,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/pythonprint.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/pythonprint.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="38" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
@@ -523,7 +518,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/loops.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/loops.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -531,7 +526,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/pythonifelse.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/pythonifelse.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
@@ -539,7 +534,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/Divison.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/Divison.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
@@ -547,7 +542,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/python-arithmetic-operators.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/python-arithmetic-operators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
@@ -555,7 +550,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/readingrawinput.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/readingrawinput.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
@@ -563,7 +558,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/helloworld.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/helloworld.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="22" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
@@ -571,10 +566,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Pythonhackerrankchallenges/writefunction.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/writefunction.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/Pythonhackerrankchallenges/List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
           <folding />
         </state>
       </provider>
