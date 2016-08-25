@@ -79,11 +79,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="stringvalidators.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="stringvalidators.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data types/stringvalidators.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
               <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mutations.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data types/mutations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -112,6 +122,7 @@
         <option value="$PROJECT_DIR$/Introduction/nestedlist.py" />
         <option value="$PROJECT_DIR$/Introduction/findPercentage.py" />
         <option value="$PROJECT_DIR$/Data types/stringvalidators.py" />
+        <option value="$PROJECT_DIR$/Data types/mutations.py" />
       </list>
     </option>
   </component>
@@ -706,6 +717,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data types/mutations.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding />
         </state>
       </provider>
