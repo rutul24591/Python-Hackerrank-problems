@@ -99,11 +99,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="whatsurname.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="whatsurname.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data types/whatsurname.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="swapcase.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data types/swapcase.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="76" selection-start-line="0" selection-start-column="76" selection-end-line="0" selection-end-column="76" />
               <folding />
             </state>
           </provider>
@@ -134,6 +144,7 @@
         <option value="$PROJECT_DIR$/Data types/stringvalidators.py" />
         <option value="$PROJECT_DIR$/Data types/mutations.py" />
         <option value="$PROJECT_DIR$/Data types/whatsurname.py" />
+        <option value="$PROJECT_DIR$/Data types/swapcase.py" />
       </list>
     </option>
   </component>
@@ -744,6 +755,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="37" selection-start-line="0" selection-start-column="37" selection-end-line="0" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data types/swapcase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="76" selection-start-line="0" selection-start-column="76" selection-end-line="0" selection-end-column="76" />
           <folding />
         </state>
       </provider>
