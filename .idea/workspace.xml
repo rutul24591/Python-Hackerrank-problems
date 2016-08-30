@@ -39,16 +39,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2ndlargest.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Data types/2ndlargest.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="nestedlist.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data types/nestedlist.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -129,11 +119,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="textwrap.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="textwrap.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data types/textwrap.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="designer-doormat.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data types/designer-doormat.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -168,6 +168,7 @@
         <option value="$PROJECT_DIR$/Data types/splitstringnjoin.py" />
         <option value="$PROJECT_DIR$/Data types/textalignment.py" />
         <option value="$PROJECT_DIR$/Data types/textwrap.py" />
+        <option value="$PROJECT_DIR$/Data types/designer-doormat.py" />
       </list>
     </option>
   </component>
@@ -876,6 +877,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data types/designer-doormat.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
           <folding />
         </state>
       </provider>
