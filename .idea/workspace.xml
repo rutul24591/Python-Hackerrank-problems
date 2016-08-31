@@ -100,11 +100,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rangoli.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rangoli.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data types/rangoli.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="capitalize.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data types/capitalize.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -142,6 +152,7 @@
         <option value="$PROJECT_DIR$/Data types/designer-doormat.py" />
         <option value="$PROJECT_DIR$/Data types/stringformat.py" />
         <option value="$PROJECT_DIR$/Data types/rangoli.py" />
+        <option value="$PROJECT_DIR$/Data types/capitalize.py" />
       </list>
     </option>
   </component>
@@ -873,7 +884,15 @@
     <entry file="file://$PROJECT_DIR$/Data types/rangoli.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data types/capitalize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding />
         </state>
       </provider>
