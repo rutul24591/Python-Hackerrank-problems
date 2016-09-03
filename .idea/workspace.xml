@@ -71,11 +71,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="polar-coordinates.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="polar-coordinates.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/polar-coordinates.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
               <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find-angle.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Math/find-angle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -117,6 +127,7 @@
         <option value="$PROJECT_DIR$/Strings/miniongame.py" />
         <option value="$PROJECT_DIR$/Strings/mergethetools.py" />
         <option value="$PROJECT_DIR$/Math/polar-coordinates.py" />
+        <option value="$PROJECT_DIR$/Math/find-angle.py" />
       </list>
     </option>
   </component>
@@ -909,6 +920,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
           <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/find-angle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           <folding />
         </state>
       </provider>
