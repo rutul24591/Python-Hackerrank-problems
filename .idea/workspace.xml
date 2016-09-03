@@ -81,11 +81,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="find-angle.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="find-angle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/find-angle.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
               <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pythonmoddivmod.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Math/pythonmoddivmod.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -128,6 +138,7 @@
         <option value="$PROJECT_DIR$/Strings/mergethetools.py" />
         <option value="$PROJECT_DIR$/Math/polar-coordinates.py" />
         <option value="$PROJECT_DIR$/Math/find-angle.py" />
+        <option value="$PROJECT_DIR$/Math/pythonmoddivmod.py" />
       </list>
     </option>
   </component>
@@ -928,6 +939,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/pythonmoddivmod.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
           <folding />
         </state>
       </provider>
