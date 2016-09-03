@@ -111,11 +111,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Integerscomesinallsizes.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Integerscomesinallsizes.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Math/Integerscomesinallsizes.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="75">
-              <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+              <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Trianglequest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Math/Trianglequest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -161,6 +171,7 @@
         <option value="$PROJECT_DIR$/Math/pythonmoddivmod.py" />
         <option value="$PROJECT_DIR$/Math/powermodpower.py" />
         <option value="$PROJECT_DIR$/Math/Integerscomesinallsizes.py" />
+        <option value="$PROJECT_DIR$/Math/Trianglequest.py" />
       </list>
     </option>
   </component>
@@ -984,7 +995,15 @@
     <entry file="file://$PROJECT_DIR$/Math/Integerscomesinallsizes.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Math/Trianglequest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
           <folding />
         </state>
       </provider>
